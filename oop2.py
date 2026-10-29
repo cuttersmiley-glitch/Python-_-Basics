@@ -11,3 +11,4 @@ class Circle:
         print("Perimeter is", self.perimeter())
 c1 = Circle(10)
 c1.print_details()
+#Inheritance in python
